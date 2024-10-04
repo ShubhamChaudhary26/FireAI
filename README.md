@@ -1,5 +1,3 @@
-# FireAI
- 
 # FireAI Dashboard
 ## Screenshots
 
